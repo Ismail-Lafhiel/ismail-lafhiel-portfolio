@@ -11,6 +11,7 @@ import "../assets/styles/Expertise.scss";
 
 const labelsFirst = [
   "Reactjs",
+  "Nextjs",
   "TypeScript",
   "JavaScript",
   "HTML5",
@@ -40,10 +41,8 @@ function Expertise() {
             <FontAwesomeIcon icon={faReact} size="3x" />
             <h3>Front end Development</h3>
             <p>
-              I have built a diverse array of web applications from scratch
-              using modern technologies such as React and Flask. I have a strong
-              proficiency in the SDLC process and frontend + backend
-              development.
+              I have built a diverse array of frontend web applications from scratch
+              using modern technologies such as HTML, Css, Tailwind, JavaScript, Reactjs and Nextjs.
             </p>
             <div className="flex-chips">
               <span className="chip-title">Tech stack:</span>
@@ -57,10 +56,9 @@ function Expertise() {
             <FontAwesomeIcon icon={faNodeJs} size="3x" />
             <h3>Back end Development</h3>
             <p>
-              Stay relevant in the market by leveraging the latest AI models in
-              your projects. I have professional experience building enterprise
-              grade GenAI-enabled solutions to empower intelligent decision
-              making.
+              I have built a diverse array of backend web applications
+              using modern technologies such as PHP, Laravel, Nodejs, Expressjs, Nestjs
+              and for the database I use MySQL and MongoDB.
             </p>
             <div className="flex-chips">
               <span className="chip-title">Tech stack:</span>
@@ -74,9 +72,9 @@ function Expertise() {
             <FontAwesomeIcon icon={faDocker} size="3x" />
             <h3>DevOps & Automation</h3>
             <p>
-              Once the application is built, I help clients set up DevOps
-              testing, CI/CD pipelines, and deployment automation to support the
-              successful Go-Live.
+              Once the application is built, I set up DevOps testing, CI/CD
+              pipelines, and deployment automation to support the successful
+              Go-Live.
             </p>
             <div className="flex-chips">
               <span className="chip-title">Tech stack:</span>

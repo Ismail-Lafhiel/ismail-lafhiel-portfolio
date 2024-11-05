@@ -57,7 +57,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faGraduationCap} />}
           >
             <h3 className="vertical-timeline-element-title">High School Degree in Physical Sciences and Chemistry</h3>
-            <h4 className="vertical-timeline-element-subtitle">Youssoufia, Japan</h4>
+            <h4 className="vertical-timeline-element-subtitle">Youssoufia, Morocco</h4>
           </VerticalTimelineElement>
         </VerticalTimeline>
       </div>
