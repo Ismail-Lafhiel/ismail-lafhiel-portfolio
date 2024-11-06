@@ -61,14 +61,14 @@ function Project() {
         </div>
         <div className="project">
           <a
-            href="https://github.com/Ismail-Lafhiel/tic-tac-toe-20x20-"
+            href="https://tic-tac-toe-20x20.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
             <img src={mock08} className="zoom" alt="thumbnail" width="100%" />
           </a>
           <a
-            href="https://github.com/Ismail-Lafhiel/tic-tac-toe-20x20-"
+            href="https://tic-tac-toe-20x20.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
