@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/css/main.0a66fc94.css",
+    "main.js": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/js/main.e65b928c.js",
+    "static/js/453.00cce832.chunk.js": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/js/453.00cce832.chunk.js",
+    "static/media/mock10.png": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/media/mock10.d895ace2d3a6c08603d2.png",
+    "static/media/mock07.png": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/media/mock07.d7efb0226563e0a51a4a.png",
+    "static/media/mock02.png": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/media/mock02.2b44b6a880bf4bf1a749.png",
+    "static/media/mock09.png": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/media/mock09.1fa7d5498ccd5b73bafc.png",
+    "static/media/bg-light.png": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock03.png": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/media/mock03.e391e92773f91c7f03dc.png",
+    "static/media/bg-dark.png": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock01.png": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/media/mock01.7f749ab14a08a9851896.png",
+    "static/media/mock04.png": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/media/mock04.37073955d12aa057c919.png",
+    "static/media/mock06.png": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/media/mock06.7ba051cf7ff5004431f9.png",
+    "static/media/mock05.png": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/media/mock05.153b54d969ee9db82539.png",
+    "static/media/mock08.png": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/media/mock08.ff4e491ca408d760afc8.png",
+    "index.html": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/index.html",
+    "main.0a66fc94.css.map": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/css/main.0a66fc94.css.map",
+    "main.e65b928c.js.map": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/js/main.e65b928c.js.map",
+    "453.00cce832.chunk.js.map": "/Ismail-Lafhiel/ismail-lafhiel-portfolio/static/js/453.00cce832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a66fc94.css",
+    "static/js/main.e65b928c.js"
+  ]
+}
