@@ -6,7 +6,7 @@
 
 This simple portfolio template is designed to showcase my past projects, career history, skill sets, and more.
 
-View the [Demo](https://yujisatojr.github.io/react-portfolio-template/).
+View the [Demo](https://ismail-lafhiel-portfolio.vercel.app/).
 
 
 ![screenshot](./src/assets//images/screenshot.png)
